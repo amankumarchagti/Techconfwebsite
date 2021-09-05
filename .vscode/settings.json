@@ -4,5 +4,7 @@
     "azureFunctions.pythonVenv": ".venv",
     "azureFunctions.projectLanguage": "Python",
     "azureFunctions.projectRuntime": "~3",
-    "debug.internalConsoleOptions": "neverOpen"
+    "debug.internalConsoleOptions": "neverOpen",
+    "appService.defaultWebAppToDeploy": "/subscriptions/5fbd44ca-3a31-4f2b-910d-c7bbc98c8963/resourceGroups/project3-resourcegroup/providers/Microsoft.Web/sites/project3-webapp",
+    "appService.deploySubpath": "."
 }
