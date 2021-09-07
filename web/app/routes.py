@@ -116,4 +116,4 @@ def send_email(email, subject, body):
             plain_text_content=body)
 
         sg = SendGridAPIClient(app.config.get('SENDGRID_API_KEY'))
-        sg.send(message)
+        sg.send(Message)
