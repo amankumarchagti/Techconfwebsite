@@ -1,4 +1,4 @@
-﻿adal==1.2.3
+adal==1.2.3
 appdirs==1.4.4
 astroid==2.4.1
 azure-common==1.1.25
