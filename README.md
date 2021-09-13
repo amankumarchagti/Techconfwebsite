@@ -68,7 +68,7 @@ Complete a month cost analysis of each Azure resource to give an estimate total 
 |3| *Azure App service*   |  F1:free | Free        |
 |4| *Azure Storage*   |  Standard | 1543.93 INR  |
 |5| *Azure Function App*   | Consuption | Free        |
-|6| *Azure Application Insite*   | NA | Free        |
+|6| *Azure Application Insight*   | NA | Free        |
 
 ## Architecture Explanation
 
